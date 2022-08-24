@@ -62,7 +62,7 @@
     "prettier": "^2.4.1",
     "release": "^6.3.0",
     "standard-version": "^9.5.0",
-    "storybook-addon-next-router": "^3.0.8",
+    "storybook-addon-next-router": "^4.0.0",
     "typescript": "^4.5.5",
     "webpack": "5.68.0"
   },
